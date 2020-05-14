@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPTS487_Game", "CPTS487_Game\CPTS487_Game.csproj", "{7A16F76F-4631-409F-82B5-400C5821C2A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A16F76F-4631-409F-82B5-400C5821C2A6}.Debug|x86.ActiveCfg = Debug|x86
+		{7A16F76F-4631-409F-82B5-400C5821C2A6}.Debug|x86.Build.0 = Debug|x86
+		{7A16F76F-4631-409F-82B5-400C5821C2A6}.Release|x86.ActiveCfg = Release|x86
+		{7A16F76F-4631-409F-82B5-400C5821C2A6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {675ACCAD-310D-4C91-AAC1-9B608E1C8FCF}
+	EndGlobalSection
+EndGlobal
